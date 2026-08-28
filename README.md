@@ -122,3 +122,22 @@
 > _The oven is on — something new is baking!_ 👨🏼‍🍳🔥
 
 If you'd like to visit my previous GitHub profile, you can check it out [here](https://github.com/littlebru).
+
+
+<br/>
+
+## My Contribution Graph 🎮
+
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/littlebruu/littlebruu/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- breakout -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/littlebruu/littlebruu/output/breakout-contribution-graph.svg">
+</picture>
