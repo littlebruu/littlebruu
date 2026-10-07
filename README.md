@@ -99,21 +99,9 @@ Building reliable systems, one deployment at a time
 
 </div>
 
-## Contributions
-
-<!-- galaga -->
-<a href="https://abozanona.github.io/pacman-contribution-graph/">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/galaga-contribution-graph.svg">
-    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/littlebruu/littlebruu/output/galaga-contribution-graph.svg">
-</picture>
-</a>  
-
 <br>
 
 ---
-
 
 <div align="center">
 
@@ -140,3 +128,4 @@ Building reliable systems, one deployment at a time
   </a>
 
 </div>
+
