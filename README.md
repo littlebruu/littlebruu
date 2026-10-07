@@ -90,7 +90,7 @@ Building reliable systems, one deployment at a time
 - CI/CD pipelines and deployment automation
 - Monitoring, metrics, logs and alerting
 - DNS, domains and edge infrastructure
-- SQL Server and application troubleshooting
+- Application and database troubleshooting
 - Technical documentation and operational processes
 
 <br>
