@@ -22,11 +22,10 @@ Currently deepening my knowledge in **Cloud, Kubernetes, Observability and Site 
 
 <br>
 
-## Core Competencies
 
 <img src="./img/pointer-rotation.png" align="left" width="60" />
 
-`Cloud Infrastructure` · `Kubernetes` · `GitOps` · `CI/CD` · `Observability` · `Automation` · `DNS & Networking` · `Databases` · `API Integration` · `Troubleshooting`
+Building reliable systems, one deployment at a time
 
 <br>
 
@@ -79,7 +78,6 @@ Currently deepening my knowledge in **Cloud, Kubernetes, Observability and Site 
 ### >_ Automation & Systems
 
 ![Bash](https://img.shields.io/badge/Bash-2B2D31?style=flat-square&logo=gnubash&logoColor=FF1A6A)
-![Linux](https://img.shields.io/badge/Linux-2B2D31?style=flat-square&logo=linux&logoColor=FF1A6A)
 
 <br>
 
@@ -94,7 +92,6 @@ Currently deepening my knowledge in **Cloud, Kubernetes, Observability and Site 
 - Monitoring, metrics, logs and alerting
 - DNS, domains, proxy and edge infrastructure
 - SQL Server and database troubleshooting
-- REST APIs, OpenAPI and developer tooling
 - Infrastructure and application troubleshooting
 - Technical documentation and operational processes
 
@@ -125,6 +122,7 @@ Currently deepening my knowledge in **Cloud, Kubernetes, Observability and Site 
 <img src="./img/space-cat.gif"  width="100">
 </div>
 
+<br>
 
 <p align="center">
   Feel free to connect with me or get in touch.
