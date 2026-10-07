@@ -1,3 +1,5 @@
+<br>
+
 <div align="center">
   <img src="./img/header-2.gif" alt="Bruna Gomes - DevOps Engineer">
 </div>
