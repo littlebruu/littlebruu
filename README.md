@@ -1,132 +1,144 @@
-<!--<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Bruna Gomes, a full-time full-stack developer 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Kubernetes and Cloud Foundations on AWS platform 
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="25%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://dev.to/rishavanand" target="_blank"><img src=https://img.shields.io/badge/Bootstrap-%2309091A.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white alt=Bootstrap style="margin-bottom: 5px;" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### Backend  
-<div align="center">  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### DevOps  
-<div align="center">  
-  <a href="https://www.linuxfoundation.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-</div>  
-
-</td><td valign="top" width="25%">
-
-### Database  
-<div align="center">  
- <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" /></a>
-</div>
-
-### Reports and Analytics  
-<div align="center">  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Jaspersoft-005C84?style=for-the-badge&logo=jaspersoft&logoColor=white" /></a>
-</div>
-
-  
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="./img/header-2.gif" alt="Bruna Gomes - DevOps Engineer">
+</div>
+
+<br>
+
+## About me
+
+<a href="https://www.linkedin.com/in/bru-gomes/">
+  <img src="./img/blackcat-sticker.png" align="right" width="90" />
 </a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
-<br />-->
+I'm **Bruna Gomes**, a DevOps Engineer with a background in Full Stack development.
 
+I work with cloud infrastructure, Kubernetes, GitOps, CI/CD and observability, combining infrastructure knowledge with a software engineering perspective.
 
+My previous development experience helps me work closely with engineering teams, troubleshoot applications, improve deployment workflows and build better internal tooling.
 
-<br/>
+Currently deepening my knowledge in **Cloud, Kubernetes, Observability and Site Reliability Engineering**.
 
-## My Contribution Graph 🎮
+<br>
 
-<!-- pacman -->
+<br>
+
+## Core Competencies
+
+<img src="./img/pointer-rotation.png" align="left" width="60" />
+
+`Cloud Infrastructure` · `Kubernetes` · `GitOps` · `CI/CD` · `Observability` · `Automation` · `DNS & Networking` · `Databases` · `API Integration` · `Troubleshooting`
+
+<br>
+
+## Technologies
+
+### ☁ Cloud & Infrastructure
+
+<img src="./img/ace.png" align="right" width="90" />
+
+![AWS](https://img.shields.io/badge/AWS-2B2D31?style=flat-square&logo=amazonwebservices&logoColor=FF1A6A)
+![Linux](https://img.shields.io/badge/Linux-2B2D31?style=flat-square&logo=linux&logoColor=FF1A6A)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-2B2D31?style=flat-square&logo=cloudflare&logoColor=FF1A6A)
+
+### ◈ Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2B2D31?style=flat-square&logo=docker&logoColor=FF1A6A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2B2D31?style=flat-square&logo=kubernetes&logoColor=FF1A6A)
+![K3s](https://img.shields.io/badge/K3s-2B2D31?style=flat-square&logo=k3s&logoColor=FF1A6A)
+
+### ⟳ GitOps & Continuous Delivery
+
+![Argo CD](https://img.shields.io/badge/Argo_CD-2B2D31?style=flat-square&logo=argo&logoColor=FF1A6A)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2B2D31?style=flat-square&logo=githubactions&logoColor=FF1A6A)
+![Git](https://img.shields.io/badge/Git-2B2D31?style=flat-square&logo=git&logoColor=FF1A6A)
+
+### ◉ Observability & Monitoring
+
+![Grafana](https://img.shields.io/badge/Grafana-2B2D31?style=flat-square&logo=grafana&logoColor=FF1A6A)
+
+<img src="./img/tux.png" align="right" width="80" />
+
+### ⌁ Networking, DNS & Edge
+
+![Cloudflare](https://img.shields.io/badge/DNS_%26_Edge-2B2D31?style=flat-square&logo=cloudflare&logoColor=FF1A6A)
+![DNS](https://img.shields.io/badge/DNS-2B2D31?style=flat-square&logoColor=FF1A6A)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-2B2D31?style=flat-square&logo=letsencrypt&logoColor=FF1A6A)
+
+### ▤ Databases & SQL
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-2B2D31?style=flat-square&logo=microsoftsqlserver&logoColor=FF1A6A)
+![SQL](https://img.shields.io/badge/SQL-2B2D31?style=flat-square&logoColor=FF1A6A)
+
+### </> APIs & Developer Tooling
+
+![REST API](https://img.shields.io/badge/REST_API-2B2D31?style=flat-square&logoColor=FF1A6A)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-2B2D31?style=flat-square&logo=openapiinitiative&logoColor=FF1A6A)
+![Swagger](https://img.shields.io/badge/Swagger-2B2D31?style=flat-square&logo=swagger&logoColor=FF1A6A)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-2B2D31?style=flat-square&logo=hoppscotch&logoColor=FF1A6A)
+
+### >_ Automation & Systems
+
+![Bash](https://img.shields.io/badge/Bash-2B2D31?style=flat-square&logo=gnubash&logoColor=FF1A6A)
+![Linux](https://img.shields.io/badge/Linux-2B2D31?style=flat-square&logo=linux&logoColor=FF1A6A)
+
+<br>
+
+## What I work with
+
+<img src="./img/github-sticker.png" align="right" width="90" />
+
+- Cloud infrastructure and Linux environments
+- Kubernetes and containerized applications
+- GitOps workflows with Argo CD
+- CI/CD pipelines and deployment automation
+- Monitoring, metrics, logs and alerting
+- DNS, domains, proxy and edge infrastructure
+- SQL Server and database troubleshooting
+- REST APIs, OpenAPI and developer tooling
+- Infrastructure and application troubleshooting
+- Technical documentation and operational processes
+
+<br>
+
+</div>
+
+## Contributions
+
+<!-- galaga -->
+<a href="https://abozanona.github.io/pacman-contribution-graph/">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/littlebruu/littlebruu/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/littlebruu/littlebruu/output/galaga-contribution-graph.svg">
+    <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/littlebruu/littlebruu/output/galaga-contribution-graph.svg">
 </picture>
+</a>  
+
+<br>
+
+---
 
 
-_grafico feito por [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<div align="center">
+
+**DevOps · Cloud · Kubernetes · GitOps · SRE · Observability · Automation**
+
+<img src="./img/space-cat.gif"  width="100">
+</div>
+
+
+<p align="center">
+  Feel free to connect with me or get in touch.
+</p>
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/bru-gomes/">
+    <img src="https://img.shields.io/badge/LinkedIn-2B2D31?style=for-the-badge&logo=linkedin&logoColor=FF1A6A" />
+  </a>
+
+
+  <a href="mailto:bruna.gomes.tecnologia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2B2D31?style=for-the-badge&logo=gmail&logoColor=FF1A6A" />
+  </a>
+
+</div>
