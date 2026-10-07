@@ -91,8 +91,9 @@ Building reliable systems, one deployment at a time
 - Monitoring, metrics, logs and alerting
 - DNS, domains and edge infrastructure
 - Application and database troubleshooting
-- Technical documentation and operational processes
+- Technical documentation and operational workflows
 
+  
 <br>
 
 </div>
