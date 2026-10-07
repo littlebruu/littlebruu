@@ -81,18 +81,16 @@ Building reliable systems, one deployment at a time
 
 <br>
 
-## What I work with
+## Engineering Focus
 
 <img src="./img/github-sticker.png" align="right" width="90" />
 
 - Cloud infrastructure and Linux environments
-- Kubernetes and containerized applications
-- GitOps workflows with Argo CD
+- Kubernetes, containers and GitOps workflows
 - CI/CD pipelines and deployment automation
 - Monitoring, metrics, logs and alerting
-- DNS, domains, proxy and edge infrastructure
-- SQL Server and database troubleshooting
-- Infrastructure and application troubleshooting
+- DNS, domains and edge infrastructure
+- SQL Server and application troubleshooting
 - Technical documentation and operational processes
 
 <br>
